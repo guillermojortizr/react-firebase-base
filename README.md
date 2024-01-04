@@ -1,0 +1,2 @@
+# react-firebase-base
+ This base project is built with Vite, React, TypeScript, and Firebase, providing a solid platform for web development. The combination of these technologies allows the rapid and efficient creation of modern and scalable applications. Contributions are welcome! If you find bugs or have improvements, feel free to open an issue or submit a pull request. This project is under the MIT License, which means you can freely use it in your own projects, even for commercial purposes.

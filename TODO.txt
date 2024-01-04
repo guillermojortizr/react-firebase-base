@@ -1,0 +1,4 @@
+
+* Control de de error reset password:
+    - mensajes y redirección en caso de éxito
+    - mensajes y redirección en caso de error
